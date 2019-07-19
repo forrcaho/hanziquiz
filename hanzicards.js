@@ -1,4 +1,4 @@
-// hanzicards.js    -*- mode:C; coding: utf-8 -*-
+﻿// hanzicards.js    -*- mode: javascript; coding: utf-8 -*-
 // version 0.3.1
 // Copyright (C) 2003 by Forrest Cahoon (hanziquiz@abstractfactory.org)
 //
