@@ -1,3 +1,14 @@
+This is a program I wrote in the early 2000s to help me learn Chinese characters (and Javascript).
+I didn't think anyone was still interested in it, but I recently received an email asking about it,
+so I managed to find a copy of the final version, from 2003, to  upload here. Some of this code is
+concerned with compatibility issues during the browser wars, and so is no longer relevant. That said,
+bit rot hasn't set in; it still runs fine in today's browsers.
+
+What follows is the original README distributed with the code. Note the email address is no longer 
+valid: if you found this on Github, you can figure out how to contact me.
+
+=====================================================================================================
+
 This is the README file for Hanzi Quiz 0.3.1, 
 Copyright 2003 by Forrest Cahoon (hanziquiz@abstractfactory.org).
 
